@@ -1,0 +1,25 @@
+.light-gr-bkgrnd {
+  background: #efefef;
+  border: 1px solid #ccc;
+}
+
+h1 {
+  margin: 20px 0 0;
+}
+
+input, textarea {
+  display: block;
+  margin-bottom: 10px;
+}
+
+ul, li {
+  list-style: none;
+  padding-left: 0;
+}
+
+li span {
+  display: inline-block;
+  margin-left: 10px;
+  font-size: 0.5em;
+  vertical-align: middle;
+}
